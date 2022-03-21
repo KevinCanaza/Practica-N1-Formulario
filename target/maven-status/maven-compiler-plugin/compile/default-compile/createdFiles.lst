@@ -1,0 +1,8 @@
+com\emergentes\RegistroUsuario.class
+com\emergentes\Inscripción.class
+com\emergentes\RegistroLibroServlet.class
+com\emergentes\RegistroLibro.class
+com\emergentes\RegistroProducto.class
+com\emergentes\RegistroProductoServlet.class
+com\emergentes\RegistroUsuarioServlet.class
+com\emergentes\IncripciónServlet.class
